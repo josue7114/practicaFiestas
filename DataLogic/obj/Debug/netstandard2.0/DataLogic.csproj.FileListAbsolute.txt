@@ -1,7 +1,6 @@
 C:\Users\josue\Desktop\practicaFiestas\DataLogic\bin\Debug\netstandard2.0\DataLogic.deps.json
 C:\Users\josue\Desktop\practicaFiestas\DataLogic\bin\Debug\netstandard2.0\DataLogic.dll
 C:\Users\josue\Desktop\practicaFiestas\DataLogic\bin\Debug\netstandard2.0\DataLogic.pdb
-C:\Users\josue\Desktop\practicaFiestas\DataLogic\obj\Debug\netstandard2.0\DataLogic.csprojAssemblyReference.cache
 C:\Users\josue\Desktop\practicaFiestas\DataLogic\obj\Debug\netstandard2.0\DataLogic.csproj.CoreCompileInputs.cache
 C:\Users\josue\Desktop\practicaFiestas\DataLogic\obj\Debug\netstandard2.0\DataLogic.AssemblyInfoInputs.cache
 C:\Users\josue\Desktop\practicaFiestas\DataLogic\obj\Debug\netstandard2.0\DataLogic.AssemblyInfo.cs
