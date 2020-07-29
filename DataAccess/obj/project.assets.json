@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josue\\Desktop\\Fiestas\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\josue\\Desktop\\practicaFiestas\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\josue\\Desktop\\Fiestas\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\josue\\Desktop\\practicaFiestas\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\josue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josue\\Desktop\\Fiestas\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\josue\\Desktop\\practicaFiestas\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josue\\AppData\\Roaming\\NuGet\\NuGet.Config",

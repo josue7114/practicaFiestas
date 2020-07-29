@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josue\\Desktop\\Fiestas\\DataLogic\\DataLogic.csproj": {}
+    "C:\\Users\\josue\\Desktop\\practicaFiestas\\DataLogic\\DataLogic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josue\\Desktop\\Fiestas\\DataLogic\\DataLogic.csproj": {
+    "C:\\Users\\josue\\Desktop\\practicaFiestas\\DataLogic\\DataLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josue\\Desktop\\Fiestas\\DataLogic\\DataLogic.csproj",
+        "projectUniqueName": "C:\\Users\\josue\\Desktop\\practicaFiestas\\DataLogic\\DataLogic.csproj",
         "projectName": "DataLogic",
-        "projectPath": "C:\\Users\\josue\\Desktop\\Fiestas\\DataLogic\\DataLogic.csproj",
+        "projectPath": "C:\\Users\\josue\\Desktop\\practicaFiestas\\DataLogic\\DataLogic.csproj",
         "packagesPath": "C:\\Users\\josue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josue\\Desktop\\Fiestas\\DataLogic\\obj\\",
+        "outputPath": "C:\\Users\\josue\\Desktop\\practicaFiestas\\DataLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josue\\AppData\\Roaming\\NuGet\\NuGet.Config",

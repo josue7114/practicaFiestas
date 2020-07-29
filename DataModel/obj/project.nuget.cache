@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DY2AOhkfp0S64lsBjpEy+63NQI/tYeAqiR+gz96EKY4e+eZOSiKoQkdw0xgqFIBviAwsmDTMALA3Dv+RpS6UdA==",
+  "dgSpecHash": "3fO5Q7JG7ILsJ9aEAaSdyR0oD+NpUHC29U/SRRSXdpAtDGUgRMqcdjC8RxpNBoGfLXwFRANY9jH/Or4xHW+jVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\josue\\Desktop\\Fiestas\\DataModel\\DataModel.csproj",
+  "projectFilePath": "C:\\Users\\josue\\Desktop\\practicaFiestas\\DataModel\\DataModel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josue\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\josue\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

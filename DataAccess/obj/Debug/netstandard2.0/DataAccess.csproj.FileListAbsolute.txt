@@ -6,3 +6,12 @@ C:\Users\josue\Desktop\Fiestas\DataAccess\obj\Debug\netstandard2.0\DataAccess.As
 C:\Users\josue\Desktop\Fiestas\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
 C:\Users\josue\Desktop\Fiestas\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 C:\Users\josue\Desktop\Fiestas\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\josue\Desktop\practicaFiestas\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\josue\Desktop\practicaFiestas\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\josue\Desktop\practicaFiestas\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\josue\Desktop\practicaFiestas\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\josue\Desktop\practicaFiestas\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\practicaFiestas\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\josue\Desktop\practicaFiestas\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\josue\Desktop\practicaFiestas\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\josue\Desktop\practicaFiestas\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
