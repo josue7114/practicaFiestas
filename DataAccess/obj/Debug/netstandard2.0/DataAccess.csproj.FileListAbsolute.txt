@@ -1,0 +1,8 @@
+C:\Users\josue\Desktop\Fiestas\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\josue\Desktop\Fiestas\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\josue\Desktop\Fiestas\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\josue\Desktop\Fiestas\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\josue\Desktop\Fiestas\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\josue\Desktop\Fiestas\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\josue\Desktop\Fiestas\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\josue\Desktop\Fiestas\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

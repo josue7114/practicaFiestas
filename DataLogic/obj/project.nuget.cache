@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kfvWJymbG5QNPftaG3uKFYWsYkXYF7bG4Fz/jCAyuKmUbXPLmVGH/mjqgQ80dh+5WOEsSd+rPlM7xt3pi7mOnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josue\\Desktop\\Fiestas\\DataLogic\\DataLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josue\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\josue\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
